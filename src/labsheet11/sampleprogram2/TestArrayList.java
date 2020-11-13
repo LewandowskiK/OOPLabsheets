@@ -118,5 +118,4 @@ public class TestArrayList{
                 System.out.println(l);
 
     }
-
 }
